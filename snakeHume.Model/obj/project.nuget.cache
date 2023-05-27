@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfhoqAxxmLmaNCziG+ZVQvodf52eP6w9eCV4KYzj5QQuweIgPXLvdb+Di+nWb27FPrt9B6t5LDaChcJGTU6nQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.Model\\snakeHume.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Alberto Hume\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Carlos Alberto Hume\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Carlos Alberto Hume\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.ilcdev.com/httpAuth/app/nuget/feed/_Root/default/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

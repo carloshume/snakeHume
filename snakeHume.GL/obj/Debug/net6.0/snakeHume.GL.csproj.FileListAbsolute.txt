@@ -1,0 +1,17 @@
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\bin\Debug\net6.0\snakeHume.GL.deps.json
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\bin\Debug\net6.0\snakeHume.GL.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\bin\Debug\net6.0\snakeHume.GL.pdb
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\bin\Debug\net6.0\snakeHume.Model.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\bin\Debug\net6.0\snakeHume.Model.pdb
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\snakeHume.GL.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\snakeHume.GL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\snakeHume.GL.AssemblyInfoInputs.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\snakeHume.GL.AssemblyInfo.cs
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\snakeHume.GL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\snakeHume.GL.csproj.CopyComplete
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\snakeHume.GL.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\refint\snakeHume.GL.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\snakeHume.GL.pdb
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\obj\Debug\net6.0\ref\snakeHume.GL.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\bin\Debug\net6.0\snakeHume.Helpers.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.GL\bin\Debug\net6.0\snakeHume.Helpers.pdb

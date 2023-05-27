@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "snakeHume.GL/1.0.0": {
+        "dependencies": {
+          "snakeHume.Helpers": "1.0.0",
+          "snakeHume.Model": "1.0.0"
+        },
+        "runtime": {
+          "snakeHume.GL.dll": {}
+        }
+      },
+      "snakeHume.Helpers/1.0.0": {
+        "runtime": {
+          "snakeHume.Helpers.dll": {}
+        }
+      },
+      "snakeHume.Model/1.0.0": {
+        "runtime": {
+          "snakeHume.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "snakeHume.GL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "snakeHume.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "snakeHume.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

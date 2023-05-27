@@ -1,0 +1,12 @@
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\bin\Debug\net6.0\snakeHume.Model.deps.json
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\bin\Debug\net6.0\snakeHume.Model.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\bin\Debug\net6.0\snakeHume.Model.pdb
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\snakeHume.Model.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\snakeHume.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\snakeHume.Model.AssemblyInfoInputs.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\snakeHume.Model.AssemblyInfo.cs
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\snakeHume.Model.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\snakeHume.Model.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\refint\snakeHume.Model.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\snakeHume.Model.pdb
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Model\obj\Debug\net6.0\ref\snakeHume.Model.dll

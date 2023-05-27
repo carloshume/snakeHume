@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "snakeHume.GL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "snakeHume.Helpers": "1.0.0",
+          "snakeHume.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/snakeHume.GL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/snakeHume.GL.dll": {}
+        }
+      },
+      "snakeHume.Helpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/snakeHume.Helpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/snakeHume.Helpers.dll": {}
+        }
+      },
+      "snakeHume.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/snakeHume.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/snakeHume.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "snakeHume.GL/1.0.0": {
+      "type": "project",
+      "path": "../snakeHume.GL/snakeHume.GL.csproj",
+      "msbuildProject": "../snakeHume.GL/snakeHume.GL.csproj"
+    },
+    "snakeHume.Helpers/1.0.0": {
+      "type": "project",
+      "path": "../snakeHume.Helpers/snakeHume.Helpers.csproj",
+      "msbuildProject": "../snakeHume.Helpers/snakeHume.Helpers.csproj"
+    },
+    "snakeHume.Model/1.0.0": {
+      "type": "project",
+      "path": "../snakeHume.Model/snakeHume.Model.csproj",
+      "msbuildProject": "../snakeHume.Model/snakeHume.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "snakeHume.GL >= 1.0.0",
+      "snakeHume.Helpers >= 1.0.0",
+      "snakeHume.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Carlos Alberto Hume\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.UI\\snakeHume.UI.csproj",
+      "projectName": "snakeHume.UI",
+      "projectPath": "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.UI\\snakeHume.UI.csproj",
+      "packagesPath": "C:\\Users\\Carlos Alberto Hume\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Carlos Alberto Hume\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://teamcity.ilcdev.com/httpAuth/app/nuget/feed/_Root/default/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.GL\\snakeHume.GL.csproj": {
+              "projectPath": "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.GL\\snakeHume.GL.csproj"
+            },
+            "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.Helpers\\snakeHume.Helpers.csproj": {
+              "projectPath": "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.Helpers\\snakeHume.Helpers.csproj"
+            },
+            "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.Model\\snakeHume.Model.csproj": {
+              "projectPath": "C:\\Users\\Carlos Alberto Hume\\source\\repos\\snakeHume\\snakeHume.Model\\snakeHume.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.ilcdev.com/httpAuth/app/nuget/feed/_Root/default/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

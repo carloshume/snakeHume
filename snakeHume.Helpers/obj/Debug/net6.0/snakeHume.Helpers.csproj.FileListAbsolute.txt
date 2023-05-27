@@ -1,0 +1,12 @@
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\bin\Debug\net6.0\snakeHume.Helpers.deps.json
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\bin\Debug\net6.0\snakeHume.Helpers.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\bin\Debug\net6.0\snakeHume.Helpers.pdb
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\snakeHume.Helpers.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\snakeHume.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\snakeHume.Helpers.AssemblyInfoInputs.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\snakeHume.Helpers.AssemblyInfo.cs
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\snakeHume.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\snakeHume.Helpers.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\refint\snakeHume.Helpers.dll
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\snakeHume.Helpers.pdb
+C:\Users\Carlos Alberto Hume\source\repos\snakeHume\snakeHume.Helpers\obj\Debug\net6.0\ref\snakeHume.Helpers.dll
